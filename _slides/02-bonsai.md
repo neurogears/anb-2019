@@ -7,6 +7,24 @@ permalink: /slides/bonsai/
 <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
 <script type="text/template">
 
+### How to get data into a computer? (recap)
+
+* Computers can only measure voltage
+
+* Voltage can be digitized into a binary code using transistors (electronic switches)
+
+---
+
+### What is a computer? (recap)
+
+* Computation is the process of executing an algorithm
+
+* Universal computers store both algorithms (code) and data in memory
+
+* Programming languages convert high-level code into machine code
+
+---
+
 ## Bonsai
 ![Bonsai](../../assets/images/bonsai-circle.svg)
 
